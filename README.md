@@ -6,7 +6,11 @@ an Arduino Nano RP2040 Connect, implemented in Micropython.
 ![arduino-christmas-tree](https://github.com/user-attachments/assets/83a4f1c0-7cc5-4f0a-8044-e3f63e451bec)
 
 
-(Schema will be added soon)
+## Diagram
+![christmas_tree_bb](https://github.com/user-attachments/assets/61436aac-5fbc-4368-8aa0-625ac321db1d)
+
+
+## Materials
 
 
 - Arduino Nano RP2040 Connect:
